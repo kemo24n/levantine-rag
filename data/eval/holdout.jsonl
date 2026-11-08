@@ -1,0 +1,20 @@
+{"id": "h1", "dialect": "شقد سعر الشيش؟", "doc": "02_menu_prices", "section": "المشاوي"}
+{"id": "h2", "dialect": "لأيمتى بتسهرو بالليل؟", "doc": "01_branches_hours", "section": "أوقات الدوام"}
+{"id": "h3", "dialect": "عندكن فرع بالبترون؟ وينو بالزبط؟", "doc": "01_branches_hours", "section": "فروع مطاعم بيت الليمون"}
+{"id": "h4", "dialect": "بتبعتو أكل لكفرسوسة؟", "doc": "03_delivery", "section": "مناطق التوصيل"}
+{"id": "h5", "dialect": "الأكل بيتأخر كتير لحتى يوصل؟", "doc": "03_delivery", "section": "مدة التوصيل"}
+{"id": "h6", "dialect": "بدي احجز لعشرين شخص بكرا", "doc": "04_reservations", "section": "حجوزات المجموعات"}
+{"id": "h7", "dialect": "إذا ما إجيت عالموعد شو بيصير بالعربون؟", "doc": "04_reservations", "section": "إلغاء الحجز"}
+{"id": "h8", "dialect": "جابولي غلط بالطلب", "doc": "05_complaints_refunds", "section": "الطلب الخاطئ أو الناقص"}
+{"id": "h9", "dialect": "شو بتعطوني على النقاط؟", "doc": "06_loyalty", "section": "استبدال النقاط"}
+{"id": "h10", "dialect": "في أكل بلا لحمة؟", "doc": "07_diet_allergens", "section": "الأطباق النباتية"}
+{"id": "h11", "dialect": "الكنافة فيها فستق؟", "doc": "07_diet_allergens", "section": "المكسرات"}
+{"id": "h12", "dialect": "بتاخدو دولار ولا سوري؟", "doc": "08_payment", "section": "الدفع في الفرع"}
+{"id": "h13", "dialect": "في عندكن صالة للحفلات؟", "doc": "09_catering_events", "section": "حفلات أعياد الميلاد"}
+{"id": "h14", "dialect": "قديش سعر الكنافة؟", "doc": "02_menu_prices", "section": "الحلويات والمشروبات"}
+{"id": "h15", "dialect": "فيكن تعملولنا أكل لشركتنا؟ نحنا 50 موظف", "doc": "09_catering_events", "section": "التموين للشركات والمناسبات"}
+{"id": "h16", "dialect": "شو بيصير إذا الأكل وصل بعد ساعتين؟", "doc": "05_complaints_refunds", "section": "تأخر التوصيل"}
+{"id": "h17", "dialect": "بتقبلو شام كاش؟", "doc": "08_payment", "section": "الدفع الإلكتروني"}
+{"id": "h18", "dialect": "في كرسي للطفل؟", "doc": "07_diet_allergens", "section": "الأطفال"}
+{"id": "h19", "dialect": "بيوم الجمعة الصبح فاتحين؟", "doc": "01_branches_hours", "section": "أوقات الدوام"}
+{"id": "h20", "dialect": "فيني احجز من الموقع؟", "doc": "04_reservations", "section": "كيفية الحجز"}
