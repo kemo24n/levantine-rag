@@ -1,0 +1,8 @@
+numpy>=1.26
+scikit-learn>=1.4
+requests>=2.31
+streamlit>=1.35
+pytest>=8.0
+
+# optional, only for the dense / hybrid_dense retrievers (~470MB model download)
+# sentence-transformers>=3.0
