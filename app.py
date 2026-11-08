@@ -1,4 +1,3 @@
-# streamlit run app.py
 import streamlit as st
 
 from rag.answer import Assistant
